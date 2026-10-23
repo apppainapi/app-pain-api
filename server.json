@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.apppainapi/app-pain-api",
+  "title": "App Pain API",
+  "description": "What users hate about ANY iOS/Android app: clustered complaints, evidence, trends. No key needed.",
+  "version": "0.2.0",
+  "websiteUrl": "https://app-pain-api.quiet-delta.workers.dev/docs#mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app-pain-api.quiet-delta.workers.dev/mcp",
+      "headers": [
+        {
+          "name": "x-api-key",
+          "description": "Optional API key for a personal quota; omit to use the keyless daily allowance",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
