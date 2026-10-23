@@ -7,7 +7,7 @@
   "websiteUrl": "https://app-pain-api.quiet-delta.workers.dev/docs#mcp",
   "repository": {
     "url": "https://github.com/apppainapi/app-pain-api",
-    "source": "https://github.com/apppainapi/app-pain-api"
+    "source": "github"
   },
   "remotes": [
     {
