@@ -5,6 +5,10 @@
   "description": "What users hate about ANY iOS/Android app: clustered complaints, evidence, trends. No key needed.",
   "version": "0.2.0",
   "websiteUrl": "https://app-pain-api.quiet-delta.workers.dev/docs#mcp",
+  "repository": {
+    "url": "https://github.com/apppainapi/app-pain-api",
+    "source": "https://github.com/apppainapi/app-pain-api"
+  },
   "remotes": [
     {
       "type": "streamable-http",
