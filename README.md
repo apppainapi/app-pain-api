@@ -92,6 +92,7 @@ Free tier forever (no credit card) · **Starter $9/mo** (any country, 500-review
 
 - Data comes from public app-store pages, normalized into one schema. Not affiliated with Apple or Google.
 - All tools are read-only (`readOnlyHint` annotations set).
+- Speaks the classic `initialize` handshake (2024-11-05 → 2025-11-25) and answers the mandatory `server/discover` RPC from the 2026-07-28 spec — modern clients probe, see the supported version list, and fall back to the handshake automatically.
 - Cold analyses take 30–120s and stream progress notifications; repeat calls hit a 7-day cache and return in milliseconds.
 - [Privacy](https://app-pain-api.quiet-delta.workers.dev/privacy) · [Terms](https://app-pain-api.quiet-delta.workers.dev/terms) · [Acceptable use](https://app-pain-api.quiet-delta.workers.dev/aup)
 - Contact: [apppainapi@proton.me](mailto:apppainapi@proton.me)
