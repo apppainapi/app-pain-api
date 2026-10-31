@@ -9,6 +9,7 @@
 [![MCP](https://img.shields.io/badge/MCP-2025--06--18-7ee0c0.svg)](https://modelcontextprotocol.io)
 [![Streamable HTTP](https://img.shields.io/badge/transport-Streamable%20HTTP-7ec4ff.svg)](https://modelcontextprotocol.io/specification/2025-06-18/basic/transports)
 [![No key required](https://img.shields.io/badge/install-no%20key%20required-ff5c39.svg)](#install)
+[![SealKeeper Service SEAL](https://api.sealkeeper.run/v1/agents/fDqzcJpHcseJBJHI25PjmQfg56SPRd-AQv84Txh3zWw/badge.svg)](https://sealkeeper.run/agents/app-pain-api.quiet-delta.workers.dev/app-pain-api-quiet-delta-workers-dev)
 
 [Live server](https://app-pain-api.quiet-delta.workers.dev/mcp) · [Docs](https://app-pain-api.quiet-delta.workers.dev/docs) · [OpenAPI 3.1](https://app-pain-api.quiet-delta.workers.dev/openapi.json) · [Pain index (101 apps)](https://app-pain-api.quiet-delta.workers.dev/pains) · [Pricing](https://app-pain-api.quiet-delta.workers.dev/#pricing)
 
